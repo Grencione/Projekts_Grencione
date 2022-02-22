@@ -11,7 +11,7 @@ print(y)
 3 Dūrēja Annemarija
 
 4 Dzērve Artūrs
-
+x=sqrt(75)-5**7
 5 Greilihs Dīvs Rihards
 x=1+1
 6 Lange Rūdolfs Toms
