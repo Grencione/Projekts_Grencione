@@ -9,7 +9,7 @@ print(y)
 2 Dundurs Mārcis
 
 3 Dūrēja Annemarija
-
+x=2+2
 4 Dzērve Artūrs
 
 5 Greilihs Dīvs Rihards
