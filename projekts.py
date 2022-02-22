@@ -21,7 +21,7 @@ print(y)
 8 Robežnieks Eduards
 
 9 Saukums Krists
-
+x=sqrt(pi)
 10 Sprūģis Gabriels
 
 11 Stankevičs Viesturs
