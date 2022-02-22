@@ -17,7 +17,7 @@ print(y)
 6 Lange Rūdolfs Toms
 
 7 Meškonis Aleksandrs Nils
-
+x=sqtr(7.8)*93
 8 Robežnieks Eduards
 
 9 Saukums Krists
