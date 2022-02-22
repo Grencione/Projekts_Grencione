@@ -5,7 +5,7 @@ y=10+x
 print(y)
 
 1 Burke Elza
-
+x=-3+7
 2 Dundurs Mārcis
 
 3 Dūrēja Annemarija
