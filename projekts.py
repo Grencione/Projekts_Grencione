@@ -27,7 +27,7 @@ y = arccos(pow(x,3))
 11 Stankevičs Viesturs
 
 12 Strazds Emīls
-
+x=1+73672364762376237623
 13 Škutāne Ieva
 
 14 Zīle Kristaps 
