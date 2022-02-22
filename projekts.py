@@ -15,7 +15,7 @@ print(y)
 5 Greilihs Dīvs Rihards
 
 6 Lange Rūdolfs Toms
-
+r=2222222222222222
 7 Meškonis Aleksandrs Nils
 
 8 Robežnieks Eduards
