@@ -31,3 +31,4 @@ print(y)
 13 Škutāne Ieva
 
 14 Zīle Kristaps 
+x=2+2222222222
