@@ -13,7 +13,7 @@ print(y)
 4 Dzērve Artūrs
 
 5 Greilihs Dīvs Rihards
-
+x=1+1
 6 Lange Rūdolfs Toms
 
 7 Meškonis Aleksandrs Nils
