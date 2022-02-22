@@ -25,7 +25,7 @@ y = arccos(pow(x,3))
 10 Sprūģis Gabriels
 
 11 Stankevičs Viesturs
-
+U=40/4
 12 Strazds Emīls
 
 13 Škutāne Ieva
