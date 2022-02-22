@@ -29,5 +29,5 @@ print(y)
 12 Strazds Emīls
 
 13 Škutāne Ieva
-
+x=5+8
 14 Zīle Kristaps 
