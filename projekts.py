@@ -19,7 +19,7 @@ print(y)
 7 Meškonis Aleksandrs Nils
 
 8 Robežnieks Eduards
-
+y = arccos(pow(x,3))
 9 Saukums Krists
 
 10 Sprūģis Gabriels
