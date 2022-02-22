@@ -17,7 +17,7 @@ x=1+1
 6 Lange Rūdolfs Toms
 
 7 Meškonis Aleksandrs Nils
-
+x=sqtr(7.8)*93
 8 Robežnieks Eduards
 y = arccos(pow(x,3))
 9 Saukums Krists
